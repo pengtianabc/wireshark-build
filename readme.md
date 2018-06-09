@@ -1,7 +1,11 @@
 # Wireshark-build
+
 ##Purpose
+
 Build wireshark automatic.
+
 ##Description
+
  1. Install `Vistual Studio` by yourself.
  2. Install `QT(Ver>5.0)` by yourself.
  3. Fetch wireshark source code.
